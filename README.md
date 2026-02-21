@@ -83,13 +83,7 @@ The results demonstrate that not all customers linked to higher-risk jurisdictio
 
 - Regularly review and adjust weights as transaction patterns or regulatory guidance evolve.
 
-## 8. Limitations & Next Steps
 
-## Limitations
-
-Data is simulated and simplified for demonstration purposes.
-
-The model does not include transaction sequencing or network relationships.
 
 ## Next Steps
 
@@ -114,5 +108,5 @@ Build explainable, business-friendly models
 
 Communicate insights clearly to non-technical stakeholders
 
-[Customer Risk Scoring.xlsx](https://github.com/user-attachments/files/24259106/Customer.Risk.Scoring.xlsx)
+
 
